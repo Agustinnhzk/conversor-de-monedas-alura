@@ -1,6 +1,7 @@
-# 🪙 Conversor de Monedas - Challenge Alura / ONE
+💵 Conversor de Monedas 
 
-Bienvenido a mi proyecto de Conversor de Monedas. Esta aplicación de consola fue desarrollada en Java y es la entrega final para el challenge Backend del programa Oracle Next Education (ONE).
+¡Bienvenido a mi proyecto de Conversor de Monedas!
+Una aplicación desarrollada para convertir divisas en tiempo real 💰
 
 ---
 
@@ -21,6 +22,12 @@ El sistema cuenta con un menú interactivo que permite las siguientes conversion
 * **Gson (v.2.10.1):** Librería utilizada para la serialización y deserialización de las respuestas JSON.
 * **HttpClient:** Para la gestión de las peticiones web a la API externa.
 
-## 👨‍💻 Sobre el Autor
-Desarrollado por Agustín Negri.
-Soy de Rosario, Argentina. Mi experiencia técnica siempre estuvo muy ligada al hardware y la reparación de equipos, y actualmente estoy expandiendo mis conocimientos hacia el backend con Java para entender y desarrollar los sistemas desde adentro.
+👤 Autor
+
+  <img src="assets/autor.jpg" alt="Agus" width="120" style="border:4px solid #4CAF50;">
+
+
+
+Agustín Negri Hrytezuk
+
+[GitHub](https://github.com/Agustinnhzk) <img src="assets/github.png" alt="git" width="30"/> | [LinkedIn](https://www.linkedin.com/in/agustín-negri-55b0a4281) <img src="assets/linkedin.png" alt="linkedin" width="30"/>
